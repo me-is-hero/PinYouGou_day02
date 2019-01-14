@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ping_contorller:war">
+    <output-path>$PROJECT_DIR$/ping_contorller/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ping_contorller</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ping_contorller-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ping_contorller:war exploded" />
+    </root>
+  </artifact>
+</component>

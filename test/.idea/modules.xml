@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gou_service/gou_service.iml" filepath="$PROJECT_DIR$/gou_service/gou_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gou_service_inter/gou_service_inter.iml" filepath="$PROJECT_DIR$/gou_service_inter/gou_service_inter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ping_contorller/ping_contorller.iml" filepath="$PROJECT_DIR$/ping_contorller/ping_contorller.iml" />
+    </modules>
+  </component>
+</project>
